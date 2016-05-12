@@ -14,5 +14,7 @@ int main (int argc, char *argv[]) {
 	printf("Here's a number I got: %d\n", num);
 	printf("Thanks, five()!\n");
 
+	printf("Here's how many accounts we have (don't ask what kind, I don't know either): %d\n", NUM_ACCOUNTS);
+
 	return 0;
 }
