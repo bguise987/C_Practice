@@ -19,7 +19,7 @@ int main (int argc, char *argv[]) {
 
 
 	int var2 = 15;
-	int *var_ptr;
+	int *var_ptr = NULL;
 
 	var_ptr = &var2;
 
